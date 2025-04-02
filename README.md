@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DONGREPRASHANTH
+- 👋 Hi, I’m @DONGRE PRASHANTH
 - 👀 I’m interested in ...MAINLY IN DATA SCIENCE and IN WEB DEVELOPMENT 
 - 🌱 I’m currently learning .. DATA ANALYTICS, HTML&JAVA SCRIPT/FRONT END DEVELOPMENT and MACHINE LEARNING
 - 💞️ I’m looking to collaborate on ... any DATA SCIENCE & FRONT END DEVELOPMENT
